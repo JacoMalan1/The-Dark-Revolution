@@ -1,0 +1,16 @@
+[
+{
+  "modid": "drmod",
+  "name": "The Dark Revolution",
+  "description": "",
+  "version": "0.0.4-alpha",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Team_up115"],
+  "credits": "N/A",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": [mod_MinecraftForge]
+}
+]

@@ -1,0 +1,26 @@
+#Creative Tabs
+itemGroup.drmod=The Dark Revolution
+
+#Items
+item.ingotCopper.name=Copper Ingot
+item.hardenedSteel.name=Hardened Steel
+item.baseBlade.name=Generic Steel Blade
+item.baseHandle.name=Generic Wood Handel
+item.genericMold.name=Generic Mold
+item.brokenArmingBlade.name=Broken Arming Sword Blade
+item.softenedArmingBlade.name=Softened Arming Sword Blade
+item.moltenSteel.name=Molten Steel
+item.armingBlade.name=Arming Sword Blade
+item.forgingHammer.name=Forging Hammer
+item.mold_arming.name=Arming Sword Blade Mold
+item.blueprint_arming.name=Arming Sword Blade Blueprint
+item.hardenedStone.name=Hardened Stone
+item.purifiedStone.name=Purified Stone
+item.leatherStrip.name=Leather Strip
+
+#Tools
+item.copperSword.name=Ulfberht
+item.steelSword.name=Steel Arming Sword
+item.longSword.name=Steel Longsword
+item.steelBSword.name=Broadsword
+item.riftSword.name=Rift Sword
